@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\session1\session1\obj\Debug\net6.0\session1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\session1\session1\obj\Debug\net6.0\session1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\session1\session1\obj\Debug\net6.0\session1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\session1\session1\obj\Debug\net6.0\session1.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\session1\session1\obj\Debug\net6.0\session1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\session1\session1\bin\Debug\net6.0\session1.exe
+C:\Users\LENOVO\source\repos\session1\session1\bin\Debug\net6.0\session1.deps.json
+C:\Users\LENOVO\source\repos\session1\session1\bin\Debug\net6.0\session1.runtimeconfig.json
+C:\Users\LENOVO\source\repos\session1\session1\bin\Debug\net6.0\session1.dll
+C:\Users\LENOVO\source\repos\session1\session1\bin\Debug\net6.0\session1.pdb
+C:\Users\LENOVO\source\repos\session1\session1\obj\Debug\net6.0\session1.dll
+C:\Users\LENOVO\source\repos\session1\session1\obj\Debug\net6.0\refint\session1.dll
+C:\Users\LENOVO\source\repos\session1\session1\obj\Debug\net6.0\session1.pdb
+C:\Users\LENOVO\source\repos\session1\session1\obj\Debug\net6.0\session1.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\session1\session1\obj\Debug\net6.0\ref\session1.dll
